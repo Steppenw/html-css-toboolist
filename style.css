@@ -16,6 +16,10 @@ h1.logo {
   display: inline-block;
 }
 
+.logo {
+  vertical-align: top;
+}
+
 nav {
   width: 80%;
   height: 50px;
